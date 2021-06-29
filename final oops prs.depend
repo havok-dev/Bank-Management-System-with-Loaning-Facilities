@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606047926 source:c:\users\hrwrd\desktop\final oops prs\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+	<ctime>
+
